@@ -1,4 +1,7 @@
-# markdown# Name 
+# markdown
+<h1 align ="center >Hello<h1>
+  
+# Name 
 ## Number
 ### street
 ## Zip code 
@@ -24,6 +27,6 @@ list | Name    | SRN
 -----|---------|------
 1    |Adithya  |------
 
-[dogs](http://labrador.com)
+## [dogs](http://labrador.com)
 
 
