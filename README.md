@@ -24,6 +24,6 @@ list | Name    | SRN
 -----|---------|------
 1    |Adithya  |------
 
-[labrador](http://dogs.com)
+[dogs](http://labrador.com)
 
 
